@@ -1,2 +1,2 @@
-# sport_clock
-Starting hours for orienteering and other sports competitions.
+# Sport_clock
+Starting clock for orienteering and other sports competitions.
