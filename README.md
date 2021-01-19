@@ -1,2 +1,4 @@
-# sport_clock
-Starting hours for orienteering and other sports competitions.
+# Стартовые часы
+Стартовые часы для соревнований по спортивному ориентированию, ТПМ и другим видам спорта.
+
+![](/Images/IMG_3791.JPG?raw=true)
